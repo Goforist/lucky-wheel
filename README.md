@@ -18,6 +18,10 @@
 4. 转盘会自动旋转并随机选中一个选项
 5. 抽奖结果会显示在转盘下方
 
+## 在线访问
+
+🌐 **GitHub Pages**: https://goforist.github.io/lucky-wheel/
+
 ## 技术实现
 
 - 纯 HTML/CSS/JavaScript 实现，无需任何依赖
